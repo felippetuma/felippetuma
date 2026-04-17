@@ -1,7 +1,3 @@
-<div>
-  <img style="10%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
