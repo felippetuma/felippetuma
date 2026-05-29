@@ -63,12 +63,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felippetuma&show_icons=true&theme=dark&hide_border=false&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippetuma&locale=en&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-</div>
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/felippetuma/felippetuma/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/felippetuma/felippetuma/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=felippetuma.felippetuma&"  />
