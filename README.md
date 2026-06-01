@@ -62,10 +62,15 @@
 </div>
 
 ###
+<p align="center">
+  <a href="https://github.com/felippetuma">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felippetuma&custom_title=Felippe%20Tuma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&v=4"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felippetuma&layout=compact&langs_count=8&theme=algolia&v=4"/>
+  </a>
+</p>
 
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=felippetuma.felippetuma&"  />
-</div>
+</div> -->
 
 ###
