@@ -64,10 +64,13 @@
 ###
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/felippetuma/felippetuma/stats-output/stats.svg" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/felippetuma/felippetuma/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<br>
+<p align="center">
+  <a href="https://github.com/ProfLucasSousa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felippetuma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felippetuma&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=felippetuma.felippetuma&"  />
